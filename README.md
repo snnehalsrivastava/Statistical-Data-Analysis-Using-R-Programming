@@ -66,10 +66,3 @@ All analyses were performed using **R**.
 *   Property characteristics like overall quality, above-ground living area, and the presence of a fireplace significantly influence sale price.
 *   Confounding variables were successfully identified and removed to create a more robust regression model for `SalePrice` prediction.
 *   A classification model effectively predicts the presence of a fireplace based on relevant property attributes.
-
-
-## Contributors
-
-*   SNEHAL SRIVASTAVA
-*   MUHAMMAD ZAIN HASHMI
-*   WEIDONG LIANG
